@@ -1,0 +1,11 @@
+[
+  # Duty to log that Jodot is alive
+  {
+    package: jodot-alive
+  },
+  # Trigger other duties via HTTP  
+  {
+    package: jodot-http-trigger
+    params: ["username", "password"]
+  }
+]

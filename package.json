@@ -1,0 +1,19 @@
+{
+  "name": "jodot-http-trigger",
+  "version": "1.0.0",
+  "description": "Jodot duty that allows trigger of another duty via HTTP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jodot",
+    "trigger",
+    "http"
+  ],
+  "author": "Vito Chin <vito@php.net> (http://www.vitochin.com)",
+  "license": "MIT",
+  "dependencies": {
+    "restify": "^4.3.0"
+  }
+}
